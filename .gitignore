@@ -1,0 +1,5 @@
+/env/*
+*.pyc
+/pytw5.egg-info/*
+/pytw5.config
+/*.json
